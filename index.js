@@ -64,9 +64,9 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:5.0\n' 
-            + 'FN:Adnan Bot\n' // Nama kamu
-            + 'ORG:Adnan Bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6283193810596:+62 831-9381-0596\n' //Nomor whatsapp kamu
+            + 'FN:Andi Bot\n' // Nama kamu
+            + 'ORG:Sherlock Bot;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6282292119677:+62 082-2921-19677\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
