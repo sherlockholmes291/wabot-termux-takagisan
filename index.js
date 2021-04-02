@@ -66,7 +66,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:5.0\n' 
             + 'FN:Adnan Bot\n' // Nama kamu
             + 'ORG:Adnan Bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6283193810596:+62 831-9381-0596\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=0:+62 831-9381-0596\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
